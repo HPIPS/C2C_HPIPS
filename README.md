@@ -40,6 +40,8 @@
  
  sudo npm install -g truffle
  
+  truffle init
+ 
  6.安装ganache-cli
  
  sudo npm install -g ganache-cli
