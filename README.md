@@ -40,8 +40,6 @@
  
  sudo npm install -g truffle
  
-  truffle init
- 
  6.安装ganache-cli
  
  sudo npm install -g ganache-cli
@@ -50,6 +48,12 @@
  truffle unbox webpack
  
  如果下载不了，可以使用
+ 
+ truffle init
+ 
+ # 编写智能合约
+ 
+ 
  
  
 
